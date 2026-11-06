@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.idea/
+.vscode/
+.pytest_cache/
+build/
+dist/
+CSV2XLSX.spec
+*.egg-info/
+*.xlsx
+*.ods
+~$*
